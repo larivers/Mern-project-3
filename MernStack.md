@@ -5,6 +5,22 @@ Objective: The objective of this project is to create a simple To-do application
 
 ![image](https://user-images.githubusercontent.com/24277138/128539492-d72a9b5d-2ed9-40c8-b03c-edf5128a3e61.png)
 
-Step 0 – Prerequisites
-Linux machines, along with neccesary network permissions will be prerequisites 
+##STEP 0 – PREREQUISITES
+
+Linux machines, along with neccesary network permissions will be prerequisites, in this case we would proceed with Ubuntu Linux 20.04 ( Focal Fossa)
+
+##STEP 1 – BACKEND CONFIGURATION
+
+We upgrade and update the Platform to ensure up-to-date binaries.
+
+Afterwards we get the location of Node.js software from Ubuntu repositories
+
+![image](https://user-images.githubusercontent.com/24277138/128547479-027a3d85-5730-4147-812d-a38c3dfb7e22.png)
+
+![image](https://user-images.githubusercontent.com/24277138/128547907-8b14afd3-b768-4a7b-9fc1-d652d9b6baf4.png)
+
+Next we move to install node.js (N) as advised above.
+
+![image](https://user-images.githubusercontent.com/24277138/128548966-69cd64ba-f095-4dd6-8d90-9e9180658cc2.png)
+
 
