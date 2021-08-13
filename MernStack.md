@@ -21,7 +21,7 @@ Afterwards we get the location of Node.js software from Ubuntu repositories
 
 Next we move to install node.js (N) as advised above.
 
-![image](https://user-images.githubusercontent.com/24277138/128548966-69cd64ba-f095-4dd6-8d90-9e9180658cc2.png)
+![image](https://user-images.githubusercontent.com/24277138/129426374-e907660d-b5e1-48a3-9db4-7b60a7448eb7.png)
 
 ![image](https://user-images.githubusercontent.com/24277138/128573720-c80e402a-b5ae-41a4-abd7-85378a5b13e9.png)
 
