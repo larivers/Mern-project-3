@@ -31,6 +31,13 @@ We now initialize the project with the npm init command in the Todo directory
 
 Express is a framework for Node.js, hence a lot of things developers would have programmed is already taken care of out of the box. However it simplifies development, and abstracts a lot of low level details.
 
+We're know installing Express in the Todo directory.
+
+![image](https://user-images.githubusercontent.com/24277138/129426957-09ba731b-256b-41d0-a075-b316c97c32ca.png)
+
+![image](https://user-images.githubusercontent.com/24277138/129427071-675fa6f9-309e-47f5-bc01-ec1a702d05df.png)
+
+
 
 
 
