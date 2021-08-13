@@ -23,9 +23,14 @@ Next we move to install node.js (N) as advised above.
 
 ![image](https://user-images.githubusercontent.com/24277138/129426374-e907660d-b5e1-48a3-9db4-7b60a7448eb7.png)
 
-![image](https://user-images.githubusercontent.com/24277138/128573720-c80e402a-b5ae-41a4-abd7-85378a5b13e9.png)
+![image](https://user-images.githubusercontent.com/24277138/129426444-97e929c8-0d0e-4c07-91af-472998ce808e.png)
 
 We now initialize the project with the npm init command in the Todo directory
+
+![image](https://user-images.githubusercontent.com/24277138/129426642-45d6cb1a-f1b5-461e-8ede-61ef0e93a21e.png)
+
+Express is a framework for Node.js, hence a lot of things developers would have programmed is already taken care of out of the box. However it simplifies development, and abstracts a lot of low level details.
+
 
 
 
