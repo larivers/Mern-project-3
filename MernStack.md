@@ -35,7 +35,15 @@ We're know installing Express in the Todo directory.
 
 ![image](https://user-images.githubusercontent.com/24277138/129426957-09ba731b-256b-41d0-a075-b316c97c32ca.png)
 
+The dotenv is a simple way that allows us to create secret keys that application needs to function and also keep them from going public - basically a way to seperate secret from pubic source code
+
 ![image](https://user-images.githubusercontent.com/24277138/129427071-675fa6f9-309e-47f5-bc01-ec1a702d05df.png)
+
+We then proceed to populating our index.js file - This ( index.js) is where we load the framwork and define the routes.
+
+![image](https://user-images.githubusercontent.com/24277138/129427478-90630a9c-2516-4b80-aab9-9972a9ebe784.png)
+
+
 
 
 
