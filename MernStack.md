@@ -15,7 +15,7 @@ We upgrade and update the Platform to ensure up-to-date binaries.
 
 Afterwards we get the location of Node.js software from Ubuntu repositories
 
-![image](https://user-images.githubusercontent.com/24277138/128547479-027a3d85-5730-4147-812d-a38c3dfb7e22.png)
+![image](https://user-images.githubusercontent.com/24277138/129426284-a537dc8e-9af3-4b85-b400-5d627aef6e2b.png)
 
 ![image](https://user-images.githubusercontent.com/24277138/128547907-8b14afd3-b768-4a7b-9fc1-d652d9b6baf4.png)
 
