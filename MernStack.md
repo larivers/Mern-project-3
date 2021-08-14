@@ -125,39 +125,37 @@ Next we edit the package.json file into the Todo directory.
 
 Now we move to the client directory and add the proxy settings to the package.json file in the client directory
 
+![image](https://user-images.githubusercontent.com/24277138/129431241-0f4d0db3-9e77-4749-ad64-e49b4577a644.png)
+
+As a milestone check we run the command npm run dev ( inside the Todo directory)
+
+![image](https://user-images.githubusercontent.com/24277138/129431297-5b58b265-6826-4559-928b-dc52da920411.png)
 
 
+To further our frontend development, we need to create three components ( two stateful and one stateless) in our client directory.
 
+You can guess which is statefull or stateless amongst the files created.
 
+![image](https://user-images.githubusercontent.com/24277138/129431497-94417be5-47c5-43f8-986b-4e1cb9b1e876.png)
 
+We installed axios above which is a promise-based HTTP client for the browser and node.js
 
+We now proceed back to the components directory and edit the remaining files.
 
+![image](https://user-images.githubusercontent.com/24277138/129431588-72c7b8a9-1eb4-4414-981b-612a434b6b20.png)
 
+![image](https://user-images.githubusercontent.com/24277138/129431649-93103afb-230f-4e3c-8bf9-2b30a3a7cf36.png)
 
+All done, but an adjustment needs to be done to our react code in the src directory, App.js
 
+![image](https://user-images.githubusercontent.com/24277138/129431838-fcfc6235-66f5-4b16-b940-c5025ca57fed.png)
 
+And also the App.css and index.css
+Since our application was never stopped, it simply kept re-compiling as more code was added.
 
+![image](https://user-images.githubusercontent.com/24277138/129432018-b64fc61d-0eab-40ac-90f1-06eee9cdca71.png)
 
+And we verify the web front-end. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/24277138/129432041-b07eab67-34ca-4b24-9fe4-fcb427bd889d.png)
 
