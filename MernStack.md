@@ -95,6 +95,21 @@ At this point the backend of our To-Do application has been configured and it's 
 
 Next milestone to set up our frontend which will be using ReactJS code, we will use Postman to test our API.
 
+![image](https://user-images.githubusercontent.com/24277138/129430538-a2dd4ab7-0274-42d1-9628-fc6f0eb47605.png)
+
+Using the GET command, we're able to get what we just posted and also the previous post into the database.
+
+![image](https://user-images.githubusercontent.com/24277138/129430629-f8789ff5-769c-40db-a370-be2e224a2fd1.png)
+
+With this we have successfully tested our backend application.
+
+To proceed with the frontend application, we jump into the same directory where our backend application resides.
+
+Installing create-react-app client - this will create 
+
+![image](https://user-images.githubusercontent.com/24277138/129430807-92a684a0-ef98-43c1-b78b-f73e378af178.png)
+
+
 
 
 
