@@ -105,9 +105,26 @@ With this we have successfully tested our backend application.
 
 To proceed with the frontend application, we jump into the same directory where our backend application resides.
 
-Installing create-react-app client - this will create 
+Installing create-react-app client - this will create a directory where the react code will be added.
 
 ![image](https://user-images.githubusercontent.com/24277138/129430807-92a684a0-ef98-43c1-b78b-f73e378af178.png)
+
+![image](https://user-images.githubusercontent.com/24277138/129430844-25cd8da6-0c37-475a-abeb-55d95be4a11f.png)
+
+Now we are installing concurrently - This is used to run more than one command from the same window.
+
+![image](https://user-images.githubusercontent.com/24277138/129430914-76d22769-2ef1-4661-9a03-22aec4b8d51f.png)
+
+The nodemon module is need to run and monitor the server i.e if there's any change in the server code, this module will restart it automatically and load the new changes.
+
+![image](https://user-images.githubusercontent.com/24277138/129430954-6e421266-6653-454b-a289-e8d29d86f4cf.png)
+
+Next we edit the package.json file into the Todo directory.
+
+![image](https://user-images.githubusercontent.com/24277138/129431064-409a0171-b08d-4e55-a9ea-2893358f7514.png)
+
+Now we move to the client directory and add the proxy settings to the package.json file in the client directory
+
 
 
 
