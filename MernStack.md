@@ -58,6 +58,13 @@ Creating a directory routes and creating the api.js
 
 ![image](https://user-images.githubusercontent.com/24277138/129428762-56678d1d-a59a-4662-baa1-f60b475bf515.png)
 
+Our database of choice is Mongodb, which is a NoSQL database, hence we need to create a model.
+A model is at the heart of JavaScript based application making it interactive. And we will use models to define our database schema.
+To create a schema and a model, we use mongoose, which is a Node.js package.
+
+![image](https://user-images.githubusercontent.com/24277138/129429091-2dd1ee55-8ec0-4765-b160-5158f9811349.png)
+
+![image](https://user-images.githubusercontent.com/24277138/129429194-7ee26d44-ddab-4288-8ec1-9b5bef852c03.png)
 
 
 
