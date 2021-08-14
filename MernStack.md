@@ -47,6 +47,18 @@ We run the node index.js command, which shows in our browser.
 
 ![image](https://user-images.githubusercontent.com/24277138/129428237-0008bf1c-75dd-40d3-b26d-3b836dad5263.png)
 
+While take into account our objective, our Todo application - The Todo Application needs to be able to do the following.
+
+1) Create a new task
+2) Display list of all tasks
+3) Delete a completed task
+
+Hence for each of these task, we would create routes that will define various endpoints (Each task will be associated with some particular endpoints) that the To-do app will depend on.
+Creating a directory routes and creating the api.js
+
+![image](https://user-images.githubusercontent.com/24277138/129428762-56678d1d-a59a-4662-baa1-f60b475bf515.png)
+
+
 
 
 
