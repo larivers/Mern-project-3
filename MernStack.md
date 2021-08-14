@@ -85,6 +85,18 @@ creating a .env file in the Todo directory, and modify as so.
 
 ![image](https://user-images.githubusercontent.com/24277138/129430157-7eeba8f5-b691-41d6-b75a-7f280dfcdf60.png)
 
+Next we update the index.js files to use the .env file we just created.
+
+![image](https://user-images.githubusercontent.com/24277138/129430312-e6ff1604-b839-40c8-ae94-c6e693d56012.png)
+
+![image](https://user-images.githubusercontent.com/24277138/129430355-c760fc33-2a8e-4517-9cd3-bc968dc945de.png)
+
+At this point the backend of our To-Do application has been configured and it's connected to it's database.
+
+Next milestone to set up our frontend which will be using ReactJS code, we will use Postman to test our API.
+
+
+
 
 
 
