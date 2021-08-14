@@ -71,6 +71,14 @@ At this point we need to update the api.js file in the routes directory.
 ![image](https://user-images.githubusercontent.com/24277138/129429544-6b8c061c-35b3-4de8-97a7-ffaa6f73e964.png)
 
 Once this is done we proceed to the MongoDB database
+Since we need a database to  store our data, for this demonstration we would use mLab ( MLab provides MongoDB as a service DBaaS).
+We will sign up for a free tier and explore !
+
+We login and create a database named myFirstDatabase.
+
+![image](https://user-images.githubusercontent.com/24277138/129429810-5dc72780-1106-4180-9955-2affff3a13d3.png)
+
+
 
 
 
