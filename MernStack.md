@@ -66,6 +66,11 @@ To create a schema and a model, we use mongoose, which is a Node.js package.
 
 ![image](https://user-images.githubusercontent.com/24277138/129429194-7ee26d44-ddab-4288-8ec1-9b5bef852c03.png)
 
+At this point we need to update the api.js file in the routes directory.
+
+![image](https://user-images.githubusercontent.com/24277138/129429544-6b8c061c-35b3-4de8-97a7-ffaa6f73e964.png)
+
+Once this is done we proceed to the MongoDB database
 
 
 
@@ -94,5 +99,5 @@ To create a schema and a model, we use mongoose, which is a Node.js package.
 
 
 
-##PS Do this project with sudo permissions not as root.
+
 
