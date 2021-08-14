@@ -43,6 +43,12 @@ We then proceed to populating our index.js file - This ( index.js) is where we l
 
 ![image](https://user-images.githubusercontent.com/24277138/129427478-90630a9c-2516-4b80-aab9-9972a9ebe784.png)
 
+We run the node index.js command, which shows in our browser.
+
+![image](https://user-images.githubusercontent.com/24277138/129428237-0008bf1c-75dd-40d3-b26d-3b836dad5263.png)
+
+
+
 
 
 
