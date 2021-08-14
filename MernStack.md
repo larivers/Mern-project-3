@@ -76,7 +76,14 @@ We will sign up for a free tier and explore !
 
 We login and create a database named myFirstDatabase.
 
-![image](https://user-images.githubusercontent.com/24277138/129429810-5dc72780-1106-4180-9955-2affff3a13d3.png)
+![image](https://user-images.githubusercontent.com/24277138/129429844-7755db00-02e8-41f7-a5c1-33d5b885f022.png)
+
+Our index.js file specified process.env to access enviromental variables (since we installed dotenv) but the file has not been created.
+creating a .env file in the Todo directory, and modify as so.
+       DB = 'mongodb+srv://<username>:<password>@<network-address>/<dbname>?retryWrites=true&w=majority'
+
+![image](https://user-images.githubusercontent.com/24277138/129430157-7eeba8f5-b691-41d6-b75a-7f280dfcdf60.png)
+
 
 
 
